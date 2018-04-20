@@ -1,6 +1,6 @@
 # Custom CMS based on Udemy Course by Edwin Diaz
 
-This code is work created during the Udemy Laravel course to learn and deploy Laravel site building techniques.
+This code is work created during the Udemy Laravel course to learn and deploy Laravel site building techniques.  This code was written alongside Edwin Diaz as he breaks down the MVC framework for a CMS.
 
 
 # Laravel PHP Framework
